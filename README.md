@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Datascience projects**
 
-- 🌱 I’m currently learning **React, Swift, Java for Android, and Angular**
+- 🌱 I’m currently learning **React, Swift, Java for Android and Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
