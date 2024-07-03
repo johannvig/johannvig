@@ -25,7 +25,7 @@
 
 <h4>Mobile Development:</h4>
 <p align="left">
-  <a href="https://swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" alt="android studio" width="40" height="40"/></a>
 </p>
 
