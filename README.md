@@ -43,8 +43,13 @@
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://apex.oracle.com/" target="_blank" rel="noreferrer"> <img src="![image-removebg-preview(1)](https://github.com/user-attachments/assets/f4108d12-2b0a-4f0f-a901-a968ffc626b2)" alt="apex oracle" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="![postman-logo-0087CA0D15-seeklogo com-removebg-preview](https://github.com/user-attachments/assets/dc07786d-c23f-4d6d-9081-95535b5430c3)" alt="postman" width="40" height="40"/></a>
+<a href="https://apex.oracle.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/oracle-apex.png" alt="apex oracle" width="40" height="40"/>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/>
+</a>
+
 
 </p>
 
