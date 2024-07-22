@@ -44,7 +44,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://apex.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/oracle-apex.png" alt="apex oracle" width="40" height="40"/>
+  <img src="https://www.oracle.com/images/ocms/marketing/social/oracle-apex-logo.png" alt="apex oracle" width="40" height="40"/>
 </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/>
