@@ -43,6 +43,6 @@
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/b36eb7ce-9969-4688-9236-247ec68fb6e9)" alt="figma" width="40" height="40"/></a>
+  <a href="https://apex.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/606/4093606-middle.png" alt="apex oracle" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/42/95042-middle.png" alt="postman" width="40" height="40"/></a>
 </p>
