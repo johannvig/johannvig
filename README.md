@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4>Web Development:</h4>
 <p align="left">
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/vector-logo/385503/spring-boot" alt="php" width="40" height="40"/></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/24c2c295-c4c2-4b70-bfe4-fbf6b7a55510" alt="spring boot" width="40" height="40"/></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
@@ -43,6 +43,9 @@
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c705272c-6cc1-4c15-af1e-660fe39e453a" alt="confluence" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/5a291250-7dfa-4e79-8fc4-64edb55b8b8c" alt="XRAY" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/82e412e5-24a2-43cc-b76a-7f4f65032f4a" alt="Cucumber" width="40" height="40"/></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/>
 </a>
