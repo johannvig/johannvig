@@ -2,7 +2,6 @@
 
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **Datascience projects**
 
 - 🌱 I’m currently learning **React, Swift, Java for Android and Angular**
 
@@ -14,6 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4>Web Development:</h4>
 <p align="left">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/vector-logo/385503/spring-boot" alt="php" width="40" height="40"/></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
@@ -43,9 +43,6 @@
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://apex.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.oracle.com/images/ocms/marketing/social/oracle-apex-logo.png" alt="apex oracle" width="40" height="40"/>
-</a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/>
 </a>
