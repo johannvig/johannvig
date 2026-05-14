@@ -45,7 +45,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c705272c-6cc1-4c15-af1e-660fe39e453a" alt="confluence" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/5a291250-7dfa-4e79-8fc4-64edb55b8b8c" alt="XRAY" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/82e412e5-24a2-43cc-b76a-7f4f65032f4a" alt="Cucumber" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/a8b9f55c-32ea-45f7-b6ed-62ce9d39d97f" alt="Cucumber" width="40" height="40"/></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/>
 </a>
